@@ -1,15 +1,5 @@
-# WORK IN PROGRESS - Updating documentation and build guides.
-
 # djbb-magantenna
-Passive DIY magloop antenna for sound design / field recording. Similar to Priezor LOM.
-
-## Description
-Simple device for listening to electromagnetic radiation in the world around you. Hold it up to your phone, computer, router, or anything with electricity to hear some interesteding buzzes, bleeps, and the occasional radio or walkie-talkie signal.
-
-# Maggie Build Guide
-___
-
-The Maggie is a simple device for listening to electromagnetic radiation in the world around you. Hold it up to your phone, computer, router, or anything with electricity to hear some interesteding buzzes, bleeps, and the occasional radio or walkie-talkie signal. 
+The Maggie is a simple device for listening to electromagnetic radiation in the world around you. Hold it up to your phone, computer, router, or anything with electricity to hear some interesteding buzzes, bleeps, and the occasional radio or walkie-talkie signal. Similar to the Priezor LOM.
 
 ## Tools Needed
 - 3D Printer
@@ -43,8 +33,7 @@ See the Audio Examples section at the bottom for a comparison of the sound.
 2. Cut 2 pieces of wire, about ~15 cm is good. 
 3. Solder these wires to the L and R pins on your aux jack
 	1. These are the 2 pins at the bottom of the jack. The single pin in the middle is ground, and we don't need it.
-
-	3. ![[IMG_30667.png|300]]
+	2. IMG_30667@0.5x
 
 4. Pop the aux connecter in it's home, and route the wires like so. 
 
