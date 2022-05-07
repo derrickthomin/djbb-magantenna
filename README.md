@@ -33,7 +33,7 @@ See the Audio Examples section at the bottom for a comparison of the sound.
 2. Cut 2 pieces of wire, about ~15 cm is good. 
 3. Solder these wires to the L and R pins on your aux jack
 	1. These are the 2 pins at the bottom of the jack. The single pin in the middle is ground, and we don't need it.
-	2. [IMG_30667@0 5x|300](https://user-images.githubusercontent.com/47721204/167274122-dc783fa4-09a3-498e-87e6-2adce316a21b.jpg)
+	2. [IMG_30667@0 5x](https://user-images.githubusercontent.com/47721204/167274122-dc783fa4-09a3-498e-87e6-2adce316a21b.jpg)
 .5x
 
 4. Pop the aux connecter in it's home, and route the wires like so. 
