@@ -2,8 +2,8 @@
 The Maggie is a simple device for listening to electromagnetic radiation in the world around you. Hold it up to your phone, computer, router, or anything with electricity to hear some interesteding buzzes, bleeps, and the occasional radio or walkie-talkie signal. Similar to the Priezor LOM.
 
 ## Tools Needed
-- 3D Printer
-- Soldering Iron + Solder
+* 3D Printer
+* Soldering Iron + Solder
 * Allen wrench for M3 Bolts
 * Hot glue gun (Not strictly necessary, but good to have)
 * Some all purpose glue or resin (hot glue, super glue, modpodge, resin, etc.)
@@ -29,7 +29,6 @@ See the Audio Examples section at the bottom for a comparison of the sound.
 
 ## Assembly
 1. 3D print the top and bottom piece. I used PETG and a 0.6mm nozzle, but anything should work. 
-	1. #dttodo - add links to buy the kit
 2. Cut 2 pieces of wire, about ~15 cm is good. 
 3. Solder these wires to the L and R pins on your aux jack
 	1. These are the 2 pins at the bottom of the jack. The single pin in the middle is ground, and we don't need it.
